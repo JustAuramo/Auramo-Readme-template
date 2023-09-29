@@ -34,237 +34,222 @@
     <img src="https://i.imgur.com/zryr906.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Projectin Nimi</h3>
+  <h1 align='center'><center><img src="https://github.com/AmirrezaJaberi/AmirrezaJaberi/blob/main/assist/logo/fireac.png" alt="what image shows" height="20" width="20"></center>   FIREAC   <center><img src="https://github.com/AmirrezaJaberi/AmirrezaJaberi/blob/main/assist/logo/fireac.png" alt="what image shows" height="20" width="20"></center></a></h1>
+<p align='center'><b><a href='https://discord.gg/uvccDWtqhv'>Discord</a></b></h5>
 
-  <p align="center">
-   testi!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+FIREAC is the best free FiveM anti-cheat made for free for you FiveM server owners and developers, this anti-cheat will help you get rid of cheaters and make a fair game for your players.
 
+# fiveguard.net
+For better **paid anticheat** check out **https://store.fiveguard.ac/**.
 
+We are **able to provide** this **free product** because of help of **https://fiveguard.net/**.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+**fiveguard is best fivem anticheat**
 
+---
 
+### Requirements :
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+- [menuv](https://github.com/ThymonA/menuv/releases) (To open admin menu)
+- [discord-screenshot](https://github.com/jaimeadf/discord-screenshot/releases) (To take screenshot)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+---
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+#### Features
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Client Side Protecet :
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+- Anti Track Player's
+- Anti Health Hack
+- Anti Armor Hack
+- Anti Infinity Ammo
+- Anti Spectate
+- Anti Ragdoll
+- Anti Menyoo
+- Anti Aim Assist
+- Anti Infinite Stamina
+- Anti Aim Bot
+- Anti Black List Weapon
+- Anti Add Weapon
+- Anti Remove Weapon
+- Anti God Mode
+- Anti Noclip
+- Anti Rainbow Vehicle
+- Anti Teleport Vehicle
+- Anti Teleport Ped
+- Anti Invisble
+- Anti Change Speed
+- Anti Free Camera
+- Anti Plate Changer
+- Anti Night Vision
+- Anti Thermal Vision
+- Anti Super Jump
+- Anti Suicide
 
-Use the `BLANK_README.md` to get started.
+Server Side Protecet :
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Anti Spam Chat
+- Anti Black List Commands
+- Anti Weapon Damage Changer
+- Anti Vehicle Damage Changer
+- Anti Black List Word
+- Anti Bring All
+- Anti Black List Trigger
+- Anti Spam Trigger
+- Anti Clear Ped Tasks
+- Anti Taze Players
+- Anti Inject
+- Anti Black List Explosion
+- Anti Explosion Spam
+- Anti Black List Object
+- Anti Black List Ped
+- Anti Black List Vehicle
+- Anti Spam Vehicle
+- Anti Spam Ped
+- Anti Spam Object
+- Anti Change Perm
+- Anti Play Sound
 
+---
 
+##### Inject Protect :
 
-### Built With
+- Anti Resource Start / Stop / Restart
+- Anti Add Command
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+---
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+##### Connection Protect:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Anti VPN
+- Anti Hosting
+- Anti Black List Name
 
+---
 
+#### Ban Method:
 
-<!-- GETTING STARTED -->
-## Getting Started
+- FiveM License
+- Steam Identifier
+- IP Address
+- Microsoft ID(LIVE ID)
+- Xbox Live ID (XBL ID)
+- Discord ID
+- [FiveM Player Token's](https://docs.fivem.net/natives/?_0x54C06897) (I call this option HWID because it is very powerful 💪)
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+---
 
-### Prerequisites
+#### Log's:
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- Console
+- Discord
+- Chat
+- Screenshot
+
+---
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+- Add this text in your `server.cfg` :
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+```
+ensure FIREAC
+ensure menuv
+ensure screenshot-basic
+ensure discord-screenshot
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
+### Whitelist
 
+- You can add your users identifiers in `FIREAC/whitelists/fire-white.lua`
+  for example :
 
-<!-- USAGE EXAMPLES -->
-## Usage
+```
+Admins = {
+    '7835767148521717**',                                -- Discord ID
+    'steam:1100001476d05**',                             -- Steam Hex
+    '192.168.1.**',                                      -- IP Address
+    'license2:500a67097ce3c274569c773bc41974d3c28380**', -- FiveM License
+}
+```
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+**Where can I find my identifiers ?** `From connecting (Log of Discord) to the server or...`
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Exports (Server Side)
 
+- `FIREAC_CHANGE_TEMP_WHHITELIST` This export only for add and remove player from `Temporary whitelist`
+  for example :
 
+```
+Add :
+exports['FIREAC']:FIREAC_CHANGE_TEMP_WHHITELIST(source, true)
 
-<!-- ROADMAP -->
-## Roadmap
+Remove :
+exports['FIREAC']:FIREAC_CHANGE_TEMP_WHHITELIST(source, false)
+```
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- `FIREAC_CHECK_TEMP_WHITELIST` This export only for check player from `Temporary whitelist` and get your result
+  for example :
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+```
+for check :
+exports['FIREAC']:FIREAC_CHECK_TEMP_WHITELIST(source)
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- `FIREAC_ACTION` This export is for `BAN` or `KICK` or `WARN` the player
+  for example :
 
+```
+for BAN :
+exports['FIREAC']:FIREAC_ACTION(source, "BAN", reason, details)
 
+for KICK :
+exports['FIREAC']:FIREAC_ACTION(source, "KICK", reason, details)
 
-<!-- CONTRIBUTING -->
-## Contributing
+for WARN :
+exports['FIREAC']:FIREAC_ACTION(source, "WARN", reason, details)
+```
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+---
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+### Command
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- `/funban [Ban ID]` This command add for unban players by ban id (with console for in game)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
+### Information
 
+FIREAC is an FiveM anti cheat developed by **Amirreza Jaberi** as a script in 2021 & due to the circumstances, it was decided to make it public
 
-<!-- LICENSE -->
-## License
+---
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+### Guide Documentation
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Guide wiki will add in github soon ...
 
+---
 
+### License
 
-<!-- CONTACT -->
-## Contact
+```
+    FIREAC - FiveM Anti Cheat
+    Copyright (C) 2023  Amirreza Jaberi
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
