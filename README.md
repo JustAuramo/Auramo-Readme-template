@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/zryr906.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/JustAuramo/githud-assets/blob/main/vAWFbhg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align='center'><center><img src="https://i.imgur.com/vAWFbhg.png" alt="what image shows" height="20" width="20"></center>   FIREAC   <center><img src="https://github.com/JustAuramo/githud-assets/blob/main/vAWFbhg.png" alt="what image shows" height="20" width="20"></center></a></h1>
